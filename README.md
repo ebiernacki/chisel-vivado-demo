@@ -1,6 +1,6 @@
 # Chisel Vivado Demo Repository
 
-This repo holds some simple test code to get you started with your development board. For now, there is nothing to complete, just run the code to generate SystemVerilog files to run in Vivado to generate a .bit file. Remeber, there is a video on canvas walking through this process.
+This repo holds some simple test code to get you started with your development board. For now, there is nothing to complete, just run the code to generate SystemVerilog files to run in Vivado to generate a .bit file. Remember, there is a video on canvas walking through this process.
 
 **Getting the Repo:**
 ```bash
